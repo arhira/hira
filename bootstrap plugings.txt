@@ -1,0 +1,112 @@
+https://envato.com/blog/addons-plugins-extending-bootstrap/
+30 Plugins & Addons for Extending the Bootstrap Framework
+1.Sliders & Carousels
+	Bootstrap Image Gallery
+	Codetabs B+ Tabs & Slider for Bootstrap
+	Bootslider
+	Strapslide Slider Plugin
+	Bootstrap Media Lightbox
+
+1.Button & Icon Libraries
+	Icon Animator for Bootstrap
+	CSS3 Microsoft Modern Buttons
+	Social Buttons for Bootstrap
+	Bootstrap Buttons Bundle
+1.Navigation & Menus
+	Yamm! Megamenu
+	Bootstrap Sidebar
+	BootstrapTreeNav
+	3d Mega Menu
+1.Bootstrap Form Elements
+	jqBootstrapValidation
+	flavr – Flat jQuery Popup Dialog
+	CSS3 Responsive Forms Pack
+	Formicon – Flat Forms Pack
+	Bootstrap Tabcollapse
+	Tokenfield for Bootstrap
+	Multi-Suggest Typeahead
+	Bootstrap Combobox
+	ClockPicker
+	Accordian Wizard
+	Bootstrap Calendar
+	tablecloth.js
+	Bootstrap Confirmation
+1.Bootstrap Component Addons
+	Bootbox.js
+	Pricely Price Charts
+	SelectBoxIt
+	Bootstrap Star Rating
+	Rpage Pagination
+	Bootstrap Paypal Shopping Cart
+	DMSS Style Switcher
+	X-editable
+	Tocify.js
+	Bootstrap Grid Extension Generator
+
+	
+	
+
+https://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitter-bootstrap
+50 Must-have plugins for extending Twitter Bootstrap 
+1.Bootstrap Drag And Drop Builder
+1.Collections of Bootstrap Enhancements
+	Fuel UX
+	Jasny
+1.Galleries
+	Bootstrap Lightbox
+	Simple Lightbox
+	Bootstrap Image Gallery
+1.Dialogs and Notifications
+	Bootbox.js
+	Bootstrap Modal
+	Bootstrap Growl
+	Bootstrap Notify
+1.Forms
+	Bootstrap Form Helpers
+	Bootstrap Tags
+	Bootstrap Switch
+	Bootstrap Markdown
+	Bootstrap Maxlength
+	Bootstrap Select
+	Bootstrap Multiselect
+	Bootstrap WYSIHTML5
+	Bootstrap Form Wizard
+	jqBootstrapValidation
+	jQuery File Upload
+	Bootstrap Tag Autocomplete
+1.Date and Time Pickers
+	Daterangepicker
+	Bootstrap Timepicker
+	Clockface
+	Bootstrap Datetime
+	Bic_Calendar
+	
+1.Color Pickers
+	Pick a Color
+	Colorpicker for Bootstrap
+	Color Palette
+	
+1.Tables
+	Tablecloth
+	Data Tables
+	
+	
+	
+1.Interface Enhancements
+	jQuery Bootpag
+	Tocify
+	Bootstrap Link Preview
+	Tab drop
+	Flippant.js
+	Hover Dropdown
+	Social Buttons
+	Bootstro.js
+1.AJAX
+	X-editable
+	Eldarion AJAX
+	Typeahead
+
+	
+50 Amazing jQuery Plugins That You Should Start Using Right Now
+50 Awesome Tools and Resources for Web Developers
+50 Useful Libraries and Resources for Responsive Web Design
